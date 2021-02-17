@@ -1,0 +1,35 @@
+name: Auto Update
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    # 1時間ごとに実行
+    - cron: '0 */1 * * *'
+
+jobs:
+  Update:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Generate new README.md
+        run: go run generator/main.go
+      - name: Push to repository
+        run: |
+          git add -N .
+          if ! git diff --exit-code --quiet
+          then
+              git config --local user.email "action@github.com"
+              git config --local user.name "GitHub Actions"
+              git add .
+              git commit -m "auto update"
+              git push origin main
+              exit 0
+          fi
+          echo "no changes"
