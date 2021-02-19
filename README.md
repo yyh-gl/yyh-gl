@@ -6,8 +6,8 @@
 
 ## Recent posts - Blog 📝
 
+- [【GitHub Actions】GitHubのプロフィールを自動更新する仕組みを作った](https://yyh-gl.github.io/tech-blog/blog/profile-readme-updater/)
 - [The Go Programming Language Specificationで知った「こんなことできるだ」を紹介](https://yyh-gl.github.io/tech-blog/blog/uncredible-codes-from-go-spec/)
 - [ブログの画像をWebPに変えた話とSafariで表示されない件について](https://yyh-gl.github.io/tech-blog/blog/support-webp/)
 - [【Go】Switch文のfallthroughに関するまとめ](https://yyh-gl.github.io/tech-blog/blog/go-switch-fallthrough/)
 - [texta.fm #1 まとめ](https://yyh-gl.github.io/tech-blog/blog/podcast-matome-texta-200827/)
-- [Goの参照渡しについて調べてみた](https://yyh-gl.github.io/tech-blog/blog/go-always-passing-by-value/)
