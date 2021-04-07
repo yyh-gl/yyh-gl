@@ -2,9 +2,6 @@ name: Auto Update
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
     # 1時間ごとに実行
     - cron: '0 */1 * * *'
