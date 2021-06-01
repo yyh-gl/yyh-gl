@@ -7,7 +7,6 @@
 
 ## Recent posts - Blog 📝
 
-
 - [【2020年】アクティビティまとめ](https://yyh-gl.github.io/tech-blog/blog/activity-2020/)
 - [【GitHub Actions】GitHubのプロフィールを自動更新する仕組みを作った](https://yyh-gl.github.io/tech-blog/blog/profile-readme-updater/)
 - [The Go Programming Language Specificationで知った「こんなことできるだ」を紹介](https://yyh-gl.github.io/tech-blog/blog/uncredible-codes-from-go-spec/)
