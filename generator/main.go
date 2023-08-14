@@ -14,7 +14,7 @@ const (
 	baseReadme        = `# Welcome to my playground 🏖
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-blue?style=flat&logo=hugo&logoColor=white)](https://tech.yyh-gl.dev/)
-[![X Badge](https://img.shields.io/badge/-@yyh__gl-1ca0f1?style=flat&logo=x)](https://twitter.com/yyh_gl)
+[![X Badge](https://img.shields.io/badge/-@yyh__gl-black?logo=x)](https://twitter.com/yyh_gl)
 [![Bluesky Badge](https://img.shields.io/badge/-Bluesky｜@yyh__gl-1e90ff?style=flat)](https://bsky.app/profile/yyh-gl.bsky.social)
 [![Speaker Deck Badge](https://img.shields.io/badge/-Speaker_Deck-009287?style=flat&logo=speaker-deck&logoColor=white)](https://speakerdeck.com/yyh_gl)
 [![Crowdin Badge](https://img.shields.io/badge/-Crowdin-f2f2f2?style=flat&logo=crowdin&logoColor=black)](https://crowdin.com/profile/yyh-gl)
