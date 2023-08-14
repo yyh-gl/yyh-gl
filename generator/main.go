@@ -26,11 +26,11 @@ const (
 
 var (
 	expTitle = regexp.MustCompile("<item><title>.*</title>")
-	expLink  = regexp.MustCompile("<link>https://yyh-gl.github.io/tech-blog/blog.*</link>")
+	expLink  = regexp.MustCompile("<link>https://tech.yyh-gl.dev/blog.*</link>")
 )
 
 func main() {
-	response, err := http.Get("https://yyh-gl.github.io/tech-blog/index.xml")
+	response, err := http.Get("https://tech.yyh-gl.dev/index.xml")
 	if err != nil {
 		panic(err)
 	}
