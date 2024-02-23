@@ -8,8 +8,8 @@
 
 ## Recent posts - Blog 📝
 
-- [2024年もよろしゅうお願いします](https://tech.yyh-gl.dev/blog/new-year-2024/)
-- [Indigo VPS上に個人開発用のk8sクラスターを構築する](https://tech.yyh-gl.dev/blog/k8s-setup/)
-- [gomockのgenerics対応状況](https://tech.yyh-gl.dev/blog/gomock-generics/)
-- [DMM.comを退職しました](https://tech.yyh-gl.dev/blog/dmm-to-line/)
-- [KtorとStripeでECサイトを作ってみた](https://tech.yyh-gl.dev/blog/kotlin-ktor-stripe-tutorial/)
+- [ブログの画像をWebPに変えた話とSafariで表示されない件について](https://tech.yyh-gl.dev/blog/support-webp/)
+- [texta.fm #1 まとめ](https://tech.yyh-gl.dev/blog/podcast-matome-texta-200827/)
+- [Goの参照渡しについて調べてみた](https://tech.yyh-gl.dev/blog/go-always-passing-by-value/)
+- [【Go+DDD】エンティティと値オブジェクトの実装方法（自己流）](https://tech.yyh-gl.dev/blog/go-ddd-entity-vo/)
+- [go test におけるキャッシュの消し方](https://tech.yyh-gl.dev/blog/go-test-cache-clear/)
