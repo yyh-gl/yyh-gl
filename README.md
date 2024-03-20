@@ -8,7 +8,7 @@
 
 ## Recent posts - Blog 📝
 
-- [2024年もよろしゅうお願いします](https://tech.yyh-gl.dev/blog/new-year-2024/)
+- [2024年もよろしくお願いします！](https://tech.yyh-gl.dev/blog/new-year-2024/)
 - [Indigo VPS上に個人開発用のk8sクラスターを構築する](https://tech.yyh-gl.dev/blog/k8s-setup/)
 - [gomockのgenerics対応状況](https://tech.yyh-gl.dev/blog/gomock-generics/)
 - [DMM.comを退職しました](https://tech.yyh-gl.dev/blog/dmm-to-line/)
