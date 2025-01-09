@@ -8,8 +8,8 @@
 
 ## Recent posts - Blog 📝
 
+- [『データ指向アプリケーションデザイン』を読んで](https://tech.yyh-gl.dev/blog/designing-data-intensive-applications/)
 - [2024年を振り返る](https://tech.yyh-gl.dev/blog/looking-back-on-2024/)
 - [分散システムにおけるID採番の勉強メモ](https://tech.yyh-gl.dev/blog/unique-ids-in-distributed-systems/)
 - [k8s関連書籍をいろいろ読んだ](https://tech.yyh-gl.dev/blog/k8s-books/)
 - [2024年もよろしくお願いします！](https://tech.yyh-gl.dev/blog/new-year-2024/)
-- [Indigo VPS上に個人開発用のk8sクラスターを構築する](https://tech.yyh-gl.dev/blog/k8s-setup/)
