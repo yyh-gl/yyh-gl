@@ -8,8 +8,8 @@
 
 ## Recent posts - Blog 📝
 
+- [『暗号解読（上）』を読んで](https://tech.yyh-gl.dev/blog/the-code-book/)
 - [VS Codeのeditor.quickSuggestionsについて調べたメモ](https://tech.yyh-gl.dev/blog/vs-code-settings-editor-quick-suggestions/)
 - [『データ指向アプリケーションデザイン』を読んで](https://tech.yyh-gl.dev/blog/designing-data-intensive-applications/)
 - [2024年を振り返る](https://tech.yyh-gl.dev/blog/looking-back-on-2024/)
 - [分散システムにおけるID採番の勉強メモ](https://tech.yyh-gl.dev/blog/unique-ids-in-distributed-systems/)
-- [k8s関連書籍をいろいろ読んだ](https://tech.yyh-gl.dev/blog/k8s-books/)
