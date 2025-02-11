@@ -6,7 +6,7 @@
 [![Speaker Deck Badge](https://img.shields.io/badge/-Speaker_Deck-009287?style=flat&logo=speaker-deck&logoColor=white)](https://speakerdeck.com/yyh_gl)
 [![Crowdin Badge](https://img.shields.io/badge/-Crowdin-f2f2f2?style=flat&logo=crowdin&logoColor=black)](https://crowdin.com/profile/yyh-gl)
 
-## Recent posts - Blog 📝
+## Blog - Recent posts 📝
 
 - [『暗号解読（上）』を読んで](https://tech.yyh-gl.dev/blog/the-code-book/)
 - [VS Codeのeditor.quickSuggestionsについて調べたメモ](https://tech.yyh-gl.dev/blog/vs-code-settings-editor-quick-suggestions/)
